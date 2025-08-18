@@ -1,4 +1,4 @@
-💫 Hi 👋, I'm Asad Farooq
+# 💫 Hi 👋, I'm Asad Farooq
 A passionate Software Engineer || Frontend Developer || Ui/Ux Designer || Standup Comedian || Singer || Gamer || Behavioral Scientist
 
 Email Me 👉 ✉️ ginglejingle3@gmail.com For Collaboration/Project or Anything Else. 😊😊

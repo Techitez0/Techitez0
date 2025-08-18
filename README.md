@@ -11,7 +11,7 @@ Email Me 👉 ✉️ ginglejingle3@gmail.com For Collaboration/Project or Anythi
 - 😄 Pronouns: Was/Were
 - ⚡ Fun fact: I can cook 😏
 
-  ## 🏆 GitHub Trophies
+## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Techitez0&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 # 💻 Tech Stack:

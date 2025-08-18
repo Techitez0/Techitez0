@@ -3,13 +3,13 @@ A passionate Software Engineer || Frontend Developer || Ui/Ux Designer || Standu
 
 Email Me 👉 ✉️ ginglejingle3@gmail.com For Collaboration/Project or Anything Else. 😊😊
 
-🔭 I’m currently working on: SAAS Projects
-🌱 I’m currently learning: Android app development 
-👯 I’m looking to collaborate on: Antipiracy SAAS 
-🤔 I’m looking for help with: Understanding humans
-💬 Ask me about: Collaboration, Tech Support, mental health support, gaming, or writing a book 😊 
-😄 Pronouns: He/Him
-⚡ Fun fact: I am INFJ
+- 🔭 I’m currently working on: SAAS Projects
+- 🌱 I’m currently learning: Android app development 
+- 👯 I’m looking to collaborate on: Antipiracy SAAS 
+- 🤔 I’m looking for help with: Understanding humans
+- 💬 Ask me about: Collaboration, Tech Support, mental health support, gaming, or writing a book 😊 
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I am INFJ
 
 
 ## 🌐 Socials:

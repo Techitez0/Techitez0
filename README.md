@@ -6,7 +6,7 @@ Email Me 👉 ✉️ ginglejingle3@gmail.com For Collaboration/Project or Anythi
 - 🔭 I’m currently working on: Self Discovery and Personal Growth
 - 🌱 I’m currently learning: Android app development 
 - 👯 I’m looking to collaborate on: Antipiracy SAAS 
-- 🤔 I’m looking for help with: finding the missing semicolon in my story 🙃
+- 🤔 I’m looking for help with: Nothing yet
 - 💬 Ask me about: Collaboration, Tech Support, mental health support, gaming, or anything 😊 
 - 😄 Pronouns: Was/Were
 - ⚡ Fun fact: I can cook 😏

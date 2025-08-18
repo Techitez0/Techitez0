@@ -6,10 +6,10 @@ Email Me 👉 ✉️ ginglejingle3@gmail.com For Collaboration/Project or Anythi
 - 🔭 I’m currently working on: Spiritual Journey and Self Discovery
 - 🌱 I’m currently learning: Android app development 
 - 👯 I’m looking to collaborate on: Antipiracy SAAS 
-- 🤔 I’m looking for help with: Loneliness
-- 💬 Ask me about: Collaboration, Tech Support, mental health support, gaming, or writing a book 😊 
+- 🤔 I’m looking for help with: finding the missing semicolon in my story 🙃
+- 💬 Ask me about: Collaboration, Tech Support, mental health support, gaming, or anything 😊 
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I am INFJ
+- ⚡ Fun fact: I can cook 🤫
 
 
 ## 🌐 Socials:

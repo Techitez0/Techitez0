@@ -9,7 +9,7 @@ Email Me 👉 ✉️ ginglejingle3@gmail.com For Collaboration/Project or Anythi
 - 🤔 I’m looking for help with: finding the missing semicolon in my story 🙃
 - 💬 Ask me about: Collaboration, Tech Support, mental health support, gaming, or anything 😊 
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I can cook 🤫
+- ⚡ Fun fact: I can cook 😏
 
 
 ## 🌐 Socials:

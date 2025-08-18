@@ -3,7 +3,7 @@ A passionate Software Engineer || Frontend Developer || Ui/Ux Designer || Standu
 
 Email Me 👉 ✉️ ginglejingle3@gmail.com For Collaboration/Project or Anything Else. 😊😊
 
-- 🔭 I’m currently working on: Spiritual Journey and Self Discovery
+- 🔭 I’m currently working on: Self Discovery and Personal Growth
 - 🌱 I’m currently learning: Android app development 
 - 👯 I’m looking to collaborate on: Antipiracy SAAS 
 - 🤔 I’m looking for help with: finding the missing semicolon in my story 🙃

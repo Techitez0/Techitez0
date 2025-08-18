@@ -8,7 +8,7 @@ Email Me 👉 ✉️ ginglejingle3@gmail.com For Collaboration/Project or Anythi
 - 👯 I’m looking to collaborate on: Antipiracy SAAS 
 - 🤔 I’m looking for help with: finding the missing semicolon in my story 🙃
 - 💬 Ask me about: Collaboration, Tech Support, mental health support, gaming, or anything 😊 
-- 😄 Pronouns: He/Him
+- 😄 Pronouns: Was/Were
 - ⚡ Fun fact: I can cook 😏
 
 

@@ -11,6 +11,10 @@ Email Me 👉 ✉️ ginglejingle3@gmail.com For Collaboration/Project or Anythi
 - 😄 Pronouns: Was/Were
 - ⚡ Fun fact: I can cook 😏
 
+  ## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Techitez0&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
+
 
 ## 🌐 Socials:
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/techwizr) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/AZWAuFTt) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/__as8___) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/Asad_Far00q) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/TimeDirect5649) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/23271943) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@AsadFarooqSiddiqui) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ginglejingle3@gmail.com) 
@@ -25,8 +29,6 @@ Email Me 👉 ✉️ ginglejingle3@gmail.com For Collaboration/Project or Anythi
 ![](https://nirzak-streak-stats.vercel.app/?user=Techitez0&theme=github_dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Techitez0&theme=github_dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Techitez0&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)

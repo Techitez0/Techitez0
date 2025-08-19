@@ -9,7 +9,7 @@
 - 👯 I’m looking to collaborate on: Antipiracy SAAS 
 - 🤔 I’m looking for help with: Nothing for now
 - 💬 Ask me about: Collaboration, Tech Support, mental health support, gaming, or anything 😊 
-- 😄 Pronouns: Was/Were
+- 😄 Pronouns: He/Him
 - ⚡ Fun fact: I can cook 😏
 
 ## 🏆 GitHub Trophies

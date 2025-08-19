@@ -18,7 +18,7 @@
 - ⚡ Fun fact: I can cook 😏
 
 ## 🏆 GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=Techitez0&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Techitez0&theme=algolia)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 
@@ -46,8 +46,7 @@
 
 
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
+
 
 
 ---

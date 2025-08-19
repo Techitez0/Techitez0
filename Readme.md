@@ -7,7 +7,7 @@
 - 🔭 I’m currently working on: Android app development 
 - 🌱 I’m currently learning: calmness over chaos
 - 👯 I’m looking to collaborate on: Antipiracy SAAS 
-- 🤔 I’m looking for help with: Nothing yet
+- 🤔 I’m looking for help with: Nothing for now
 - 💬 Ask me about: Collaboration, Tech Support, mental health support, gaming, or anything 😊 
 - 😄 Pronouns: Was/Were
 - ⚡ Fun fact: I can cook 😏

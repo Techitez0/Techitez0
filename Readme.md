@@ -1,5 +1,3 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Garamond&size=30&duration=4000&pause=100&color=F7F7F7&multiline=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Asad+Farooq++)](https://git.io/typing-svg)
-
 ## Just a hobbyist programmer, building stuff for fun and learning along the way 🚀
 
 <div align="center">

@@ -1,4 +1,4 @@
-## Just a hobbyist programmer, building stuff for fun and learning along the way 🚀
+## Cool animation :P
 
 <div align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />

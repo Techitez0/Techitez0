@@ -6,9 +6,9 @@
 
 
 ##  About Me
-- 🔭 I’m currently working on:Git gud in cybersecurity
-- 🌱 I’m currently learning: SOC aka Blue teaming
-- 😄 Pronouns: He/Him
+- 🔭 I’m currently working on: ComptIA Security ++
+- 🌱 I’m currently learning: SOC
+- 😄 Pronouns: he/him
 
 
 # 📊 GitHub Stats:
